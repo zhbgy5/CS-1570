@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477506818 source:e:\zhb_project11fun\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+
+1477506818 source:f:\c++\zhb_project11fun\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+

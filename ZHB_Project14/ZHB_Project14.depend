@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480342209 source:f:\school\c++\zhb_project14\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<time.h>
+
+1480342210 source:e:\zhb_project14\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475519730 source:e:\zhbg_project7\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1481777424 source:g:\zhb_finalproject15\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1481777424 source:e:\zhb_finalproject15\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1492446570 source:f:\c++\zhb_finalproject15\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<time.h>
+	<math.h>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476125472 source:e:\zhb_midterm\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

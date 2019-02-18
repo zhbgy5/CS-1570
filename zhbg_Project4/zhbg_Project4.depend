@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473703000 source:e:\zhbg_project4\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+
